@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.fail;
 
 
 /**
- * Unit test for HelloApp.
+ * Unit test for Helloapplication.
  * <p/>
  * A unit test aims to test all code and code paths of a specific class.
  */
